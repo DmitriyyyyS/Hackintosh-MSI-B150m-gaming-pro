@@ -5,7 +5,9 @@ Clover is fully adapted for this motherboard, the system works just fine, this i
 10.14.X
 	
 Socket 1151
+
 Intel B150	
+
 MicroATX	
 2 x DDR4 DIMM; 2
 1 x PCI-E 3.0 x16
